@@ -9,14 +9,14 @@ table 50104 "Issued Request Line"
         {
             Caption = 'Request No.';
             DataClassification = CustomerContent;
-            TableRelation = "AMA Request Header";
+            TableRelation = "Request Header";
         }
         field(2; "Line No."; Integer)
         {
             Caption = 'Line No.';
             DataClassification = CustomerContent;
         }
-        field(3; "Type"; Enum "AMA Request Line Type")
+        field(3; "Type"; Enum "Request Line Type")
         {
             Caption = 'Type';
             DataClassification = CustomerContent;

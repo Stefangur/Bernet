@@ -11,25 +11,14 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    {
-      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
-      "publisher": "Microsoft",
-      "name": "System Application",
-      "version": "1.0.0.0"
-    },
-    {
-      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
-      "publisher": "Microsoft",
-      "name": "Base Application",
-      "version": "15.0.0.0"
-    },
     { "id": "83df69e1-2044-478d-a224-7c50fc1515da",
       "name": "KitCat365 Software for Kitchen and Catering",
       "publisher": "Amathan GmbH",
       "version": "1.0.0.11" }
   ],
   "screenshots": [],
-  "platform": "1.0.0.0",
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
   "idRanges": [
     {
       "from": 50100,
